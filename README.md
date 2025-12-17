@@ -19,4 +19,4 @@
 - Python 3.10 o superior
 - Librerías necesarias:
   ```bash
-  pip install PyQt6 winshell pypiwin32 pyinstaller supabase
+  pip install PyQt6 winshell pypiwin32 pyinstaller
